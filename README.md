@@ -1,5 +1,6 @@
 ### Hi, I'm Young Hyun Bae.
-### I'm interested in back-end development.
+### I'm interested in back-end development.<br>
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -22,6 +23,9 @@
   <br>
   
 </div>
+<br>
+<br>
+##blog : https://fightingdeveloper.tistory.com/
 
 
 
