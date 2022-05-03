@@ -1,5 +1,5 @@
 ### 안녕하세요. 저는 배영현입니다.
-### 저는 Back End에 관심이 많습니다.
+### 저는 Back End 분야에 관심이 많습니다.
 
 ## My Stack
 # Language
