@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋<br>
+I'm Young Hyun Bae.
+
+## My Stack
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
 
 <!--
 **byh0923/byh0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
