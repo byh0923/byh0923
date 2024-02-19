@@ -1,6 +1,6 @@
-### Hi, I'm Young Hyun Bae.
-### I'm interested in back-end development.<br>
-
+### 안녕하세요. 배영현입니다.
+### 백엔드 개발자이며 자바, 스프링 기반의 개발을 합니다.<br>
+### 현재 검색엔진 회사에 다니고 있습니다.
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -15,11 +15,6 @@
   <h3># DataBase</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <br>
-  <h3>#Tool</h3>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
   <br>
   
 </div>
